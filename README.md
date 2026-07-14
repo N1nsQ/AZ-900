@@ -1,2 +1,12 @@
 # AZ-900
-certification prep
+
+## DESCRIBE CLOUD CONCEPTS
+
+### Describe cloud computing
+
+- Define cloud computing.
+- Describe the shared responsibility model.
+- Define cloud models, including public, private, and hybrid.
+- Identify appropriate use cases for each cloud model.
+- Describe the consumption-based model.
+- Compare cloud pricing models.
