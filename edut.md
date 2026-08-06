@@ -5,7 +5,8 @@
 - SLA = (Azure) Service Level Agreement
   - uptime guarantees depending on the service
 
-![image.png](/.attachments/image-66ee6e50-b5bf-4788-a6e2-ead5b1560b7f.png)
+<img width="951" height="687" alt="image" src="https://github.com/user-attachments/assets/9c0bd68f-6208-4084-ad26-7471b3450e39" />
+
 
 - Another major benefit of cloud computing is the **scalability** of cloud resources.
   -  ability to adjust resources to meet demand
@@ -19,7 +20,7 @@
   - add additional virtual machines or containers
   - Lisätään useita palvelimia jakamaan kuormaa.
 
-![image.png](/.attachments/image-61b771c9-165c-429c-8ca7-e68ee9900cd1.png)
+<img width="1041" height="732" alt="image" src="https://github.com/user-attachments/assets/7d3ad2d9-0e6d-4ea0-8fa2-96c6245f441a" />
 
 --- 
 
@@ -29,7 +30,8 @@
   - decentralized design = the cloud enables you to have resources deployed in regions around the world
   - if one region has a catastrophic event other regions are still up and running
 
-![image.png](/.attachments/image-8c1a9f1c-1a5f-40db-b611-fcfcaf13cee4.png)
+<img width="1082" height="776" alt="image" src="https://github.com/user-attachments/assets/3962d0b8-3690-41d3-b08b-d7f8a13ab933" />
+
 
 - **Predictability** in the cloud lets you move forward with confidence
   - Predictability can be focused on **performance** predictability or **cost** predictability
@@ -44,13 +46,13 @@
     - monitor resources to ensure that you’re using them in the most efficient way
     - apply data analytics to find patterns and trends that help better plan resource deployments
 
-![image.png](/.attachments/image-1c011e53-d3db-4639-8fc1-08613a3db9af.png)
+<img width="1084" height="664" alt="image" src="https://github.com/user-attachments/assets/609e179e-ed2d-43c1-b24b-c8c28737312a" />
 
 --- 
 
 # Security and governance
 
-![image.png](/.attachments/image-f6ad643f-b9ee-4aa7-830e-5f108d684d37.png)
+<img width="1089" height="486" alt="image" src="https://github.com/user-attachments/assets/22305f62-b980-47ed-988d-92ba44a70db4" />
 
 --- 
 
@@ -64,7 +66,8 @@ Voidaan jakaa kahteen osaan: **Management of the Cloud** ja **Management in the 
 *   Monitor the health of resources and automatically replace failing resources.
 *   Receive automatic alerts based on configured metrics, so you're aware of performance in real time.
 
-![image.png](/.attachments/image-3b294c92-c90b-42c8-93c6-3703df2b2eb8.png)
+<img width="582" height="350" alt="image" src="https://github.com/user-attachments/assets/e7fe056b-40fd-4b1c-b90f-49527618cdc9" />
+
 
 Management in the cloud speaks to how you're able to manage your cloud environment and resources. You can manage these:
 *   Through a web portal.
@@ -73,6 +76,6 @@ Management in the cloud speaks to how you're able to manage your cloud environme
 *   Using PowerShell.
 For example, an operations team can deploy resources from templates, monitor health in the portal, and automate recurring tasks with CLI or PowerShell scripts. This combination reduces manual effort and helps maintain consistent configurations.
 
-![image.png](/.attachments/image-92eae092-3940-4185-9d42-79bc1757abbe.png)
+<img width="571" height="343" alt="image" src="https://github.com/user-attachments/assets/b9c8360a-49f7-463b-9e53-ccfbb14ebdb8" />
 
 # Sustainability considerations
